@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Learning Mocha & Chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnfoster/testing_testing_123.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing"
+  ],
+  "author": "shawnfoster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnfoster/testing_testing_123/issues"
+  },
+  "homepage": "https://github.com/shawnfoster/testing_testing_123#readme"
+}
